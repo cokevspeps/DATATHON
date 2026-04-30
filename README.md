@@ -21,9 +21,9 @@ DATATHON/
 │   └── web_traffic.csv
 │
 ├── notebooks/
-│   ├── 00_mcq.ipynb          # MCQ
-│   ├── 01_eda.ipynb          # EDA & Visualization
-│   ├── 02_forecasting.ipynb  # Sales Forecasting
+│   ├── 00_mcq.ipynb
+│   ├── 01_eda.ipynb
+│   ├── 02_forecasting.ipynb
 │   └── baseline.ipynb
 │
 ├── outputs/
