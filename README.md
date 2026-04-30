@@ -3,7 +3,7 @@
 ## Cấu trúc thư mục
 
 ```
-datathon2026/
+DATATHON/
 ├── data/
 │   ├── customers.csv
 │   ├── geography.csv
@@ -15,15 +15,15 @@ datathon2026/
 │   ├── promotions.csv
 │   ├── returns.csv
 │   ├── reviews.csv
-│   ├── sales.csv             # Train: 2012-07-04 → 2022-12-31
-│   ├── sample_submission.csv # Test: 2023-01-01 → 2024-07-01
+│   ├── sales.csv
+│   ├── sample_submission.csv
 │   ├── shipments.csv
 │   └── web_traffic.csv
 │
 ├── notebooks/
 │   ├── 00_mcq.ipynb          # MCQ
 │   ├── 01_eda.ipynb          # EDA & Visualization
-│   ├── 02_forecasting.ipynb  # Sales Forecasting Model
+│   ├── 02_forecasting.ipynb  # Sales Forecasting
 │   └── baseline.ipynb
 │
 ├── outputs/
