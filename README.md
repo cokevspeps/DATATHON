@@ -29,8 +29,6 @@ DATATHON/
 ├── outputs/
 │   └── submission.csv
 │
-├── reports/
-│
 ├── README.md
 │
 └── requirements.txt
