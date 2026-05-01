@@ -46,9 +46,3 @@ jupyter notebook notebooks/00_mcq.ipynb
 jupyter notebook notebooks/01_eda.ipynb
 jupyter notebook notebooks/02_forecasting.ipynb
 ```
-
-## Nộp bài
-
-- **Kaggle**: https://www.kaggle.com/competitions/datathon-2026-round-1
-- **File nộp**: `outputs/submission.csv` (548 dòng, đúng thứ tự `sample_submission.csv`)
-- **Report**: NeurIPS template, tối đa 4 trang, đặt trong `reports/`
